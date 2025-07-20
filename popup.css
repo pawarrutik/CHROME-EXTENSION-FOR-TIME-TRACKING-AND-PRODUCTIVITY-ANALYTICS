@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  width: 300px;
+  height: 200px;
+  background-color: #ffe6f0;
+  font-family: sans-serif;
+  color: #333;
+}
+
+.container {
+  padding: 20px;
+  text-align: center;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #ff99bb;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+}
+
+#counter {
+  margin-top: 20px;
+  font-size: 18px;
+}
